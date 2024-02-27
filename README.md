@@ -90,8 +90,4 @@ _我们诚邀来自不同领域和地区的同学们踊跃投稿，共同打造�
 
 QQ群：[884687754](https://qm.qq.com/q/PxqIl7ZJYq)
 
-
-
-<a href='https://clustrmaps.com/site/1bynh' title='Visit tracker'>
-    <img src='https://github.com/Wang-Zhiping/Boundless/blob/main/imgtest.png' width='1' height='1'/>
-</a>
+<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=d8efff&ct=ffffff'/></a>
