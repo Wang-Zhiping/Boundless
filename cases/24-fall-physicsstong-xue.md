@@ -22,11 +22,11 @@ GPA：93.29/100, 4.33/5.00 (official); 3.94/4.00 (WES transcript) &#x20;
 
 录取情况：(截止 PST 2024.2.15)&#x20;
 
-Admission: UBC (University of British Columbia) MSc; MSU (Michigan State University) PhD; FSU (Florida State University) PhD; UPitt (University of Pittsburgh) PhD
+Admission: UBC (University of British Columbia) MSc; MSU (Michigan State University) PhD; FSU (Florida State University) PhD; UPitt (University of Pittsburgh) PhD; UIUC PhD
 
 Wait listed: Rochester PhD
 
-Rejection: UofT (University of Toronto) MSc; UMN (University of Minnesota) PhD; UMich Ann Arbor PhD
+Rejection: UofT (University of Toronto) MSc; UMN (University of Minnesota) PhD; UMich Ann Arbor PhD; Cornell PhD
 
 Timeline: 请[直接联系](../li-yi-he-yin-si.md)案例贡献者
 
