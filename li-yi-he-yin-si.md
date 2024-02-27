@@ -12,5 +12,13 @@ description: 关于联系案例贡献者的注意事项。
 * 尽量将自己的背景信息也分享给案例贡献者。
 * 如果有特殊情况，案例贡献者可以通过[联系我们](./#tuan-dui-cheng-yuan)撤回个人的案例。
 
-ip 统计: 
+统计 显示图片
+
+
 <a href="https://clustrmaps.com/site/1bynh"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&cl=ffffff" /></a>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&cl=ffffff&w=a"></script>
+
+<a href="https://clustrmaps.com/site/1bynh"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&cl=ffffff" /></a>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA"></script>
