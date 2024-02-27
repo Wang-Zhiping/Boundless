@@ -2,8 +2,10 @@
 description: 不被定义，合作无间。
 ---
 
-<a title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&ct=ffffff&co=ffffff'/></a>
-
+<a title='Visit tracker' style='position: relative; display: inline-block;'>
+  <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&ct=ffffff&co=ffffff' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;'/>
+  <img src='//github.com/Wang-Zhiping/Boundless/blob/main/imgtest.pngg' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;'/>
+</a>
 _<mark style="color:blue;">**欢迎访问“Boundless”!**</mark>_&#x20;
 
 我们是一个专注于以理工科为主的跨学科、跨地区申请与录取信息共享平台。本平台由2024 Fall的一些学生发起，我们汇总了自己及周围人的真实申请案例，以便分享。这里的每一个案例都来源于第一手的真实经验，而且在多数情况下，**您可以直接与案例分享者取得联系**。
