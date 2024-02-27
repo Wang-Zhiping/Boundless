@@ -2,7 +2,7 @@
 description: 不被定义，合作无间。
 ---
 
-<a href='https://boundless-1.gitbook.io/boundless/'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&ct=ffffff&co=ffffff'/></a>
+<a title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&ct=ffffff&co=ffffff'/></a>
 
 _<mark style="color:blue;">**欢迎访问“Boundless”!**</mark>_&#x20;
 
