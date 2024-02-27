@@ -3,7 +3,7 @@ description: 不被定义，合作无间。
 ---
 
 # Boundless
-
+<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=d8efff&ct=ffffff'/></a>
 ## 总览 <a href="#insights" id="insights"></a>
 
 _<mark style="color:blue;">**欢迎访问“Boundless”!**</mark>_&#x20;
@@ -89,5 +89,3 @@ _我们诚邀来自不同领域和地区的同学们踊跃投稿，共同打造�
 ## 申请交流群
 
 QQ群：[884687754](https://qm.qq.com/q/PxqIl7ZJYq)
-
-<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=d8efff&ct=ffffff'/></a>
