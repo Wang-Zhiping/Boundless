@@ -1,8 +1,7 @@
 ---
 description: 不被定义，合作无间。
 ---
-
-<a href='https://clustrmaps.com/site/1bynh' title='Visit tracker' style='opacity: 1;'><img src='//clustrmaps.com/map_v2.png?cl=bae9fc&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=ffffff&ct=ffffff'/></a>
+<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=ffffff&ct=ffffff'/></a>
 
 
 
