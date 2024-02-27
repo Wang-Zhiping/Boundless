@@ -92,6 +92,5 @@ QQ群：[884687754](https://qm.qq.com/q/PxqIl7ZJYq)
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&cl=ffffff&w=a"></script>
-
+<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=a4d4e8&w=a&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=e0e0e0&ct=ffffff'/></a>
 
