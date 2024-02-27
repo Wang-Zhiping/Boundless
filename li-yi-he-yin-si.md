@@ -11,3 +11,5 @@ description: 关于联系案例贡献者的注意事项。
 * 一般情况下不推荐索要除了邮箱之外的私人联系方式。
 * 尽量将自己的背景信息也分享给案例贡献者。
 * 如果有特殊情况，案例贡献者可以通过[联系我们](./#tuan-dui-cheng-yuan)撤回个人的案例。
+
+<a href="https://clustrmaps.com/site/1bynh"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&cl=ffffff" /></a>
