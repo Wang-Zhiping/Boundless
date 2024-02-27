@@ -3,8 +3,10 @@ description: 不被定义，合作无间。
 ---
 
 # Boundless
-<a href='https://clustrmaps.com/site/1bynh'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=d8efff&ct=ffffff'/></a>
-## 总览 <a href="#insights" id="insights"></a>
+<a href='https://clustrmaps.com/site/1bynh' title='Visit tracker'>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=0826DKcvVNCgw5NI1cXM0_69O-1XOWU6xXzQZg7yNsA&co=d8efff&ct=ffffff' width='1' height='1'/>
+</a>
+
 
 _<mark style="color:blue;">**欢迎访问“Boundless”!**</mark>_&#x20;
 
