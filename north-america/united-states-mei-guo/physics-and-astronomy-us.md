@@ -14,4 +14,4 @@ description: Master and Ph.D. program in Physics and Astronomy
 4. [GWU (The George Washington University)](https://physics.columbian.gwu.edu/) 24fall PhD [G同学](../../cases/24-fall-physicsgtong-xue.md)
 5. [UPitt (University of Pittsburgh) ](https://www.physicsandastronomy.pitt.edu/)24fall PhD [S同学](../../cases/24-fall-physicsstong-xue.md)
 6. [UIUC (University of Illinois Urbana-Champaign, Champaign) ](https://physics.illinois.edu/)24fall PhD [S同学](../../cases/24-fall-physicsstong-xue.md)
-7. [OSU (The Ohio State University) ](https://physics.osu.edu/)24fall PhD [Src同学](../../cases/24-fall-biophysicssrctong-xue.md)
+7. [OSU (The Ohio State University) ](https://physics.osu.edu/)24fall PhD [Src同学](https://boundless-1.gitbook.io/boundless/cases/24-fall-biophysicssrctong-xue)
