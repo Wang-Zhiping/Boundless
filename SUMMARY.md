@@ -40,6 +40,7 @@
 * [24 Fall Physics S同学](cases/24-fall-physicsstong-xue.md)
 * [24Fall Electronics Y同学](cases/24fall-electronicsytong-xue.md)
 * [24 Fall Physics G同学](cases/24-fall-physicsgtong-xue.md)
+* [24Fall Biophysics S同学](cases/24-fall-biophysicssrctong-xue.md)
 
 ***
 
