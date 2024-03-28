@@ -74,11 +74,11 @@ _我们诚邀来自不同领域和地区的同学们踊跃投稿，共同打造�
 ### EtaCarinae
 
 * 查看我的[录取案例](cases/24fall-electronicsytong-xue.md)
-* 申请方向：大类：Electrical Engineering, 中类：Electronic Engineering, 小类：Microelectronics, IC Design, Autonomation & Control, Signal Processing, Telecommunication
+* 申请方向：大类：Electrical Engineering, 中类：Electronic Engineering, 小类：RF IC Design
 * 地区：欧陆
 * 个人身份：欧陆风光摄影人（计划活跃于阿尔卑斯地区），EE打工人，纯diy
 * 联系方式：[etacarinae123@163.com](mailto:etacarinae123@gmail.com)
-* 想详细了解我？访问我的[<mark style="color:red;">个人网站</mark>](https://app.gitbook.com/s/XkZTXe75txEYFmRZuh5D/)
+* 想详细了解我？访问我的[<mark style="color:red;">个人网站</mark>]()
 
 ## 加入我们
 
