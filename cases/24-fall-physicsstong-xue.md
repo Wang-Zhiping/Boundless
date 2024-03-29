@@ -31,3 +31,5 @@ Rejection: UofT (University of Toronto) MSc; UMN (University of Minnesota) PhD; 
 Timeline: 请[直接联系](../li-yi-he-yin-si.md)案例贡献者
 
 联系方式：anson\_phys@163.com
+
+<figure><img src="../../.gitbook/assets/Yuntai_Visualization.png" alt=""><figcaption><p><strong>S同学美国物理PhD录取结果</strong></p></figcaption></figure>
